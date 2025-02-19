@@ -10,38 +10,38 @@ function App() {
       "id": 1,
       "title": "The Pragmatic Programmer",
       "author": "Andrew Hunt and David Thomas",
-      "imageUrl": "https://pbs.twimg.com/media/GkFTt74X0AUnSYa?format=jpg&name=900x900"
+      "imageUrl": "https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg"
       
     },
     {
       "id": 2,
       "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
       "author": "Robert C. Martin",
-      "imageUrl": "https://pbs.twimg.com/media/GkFTt74X0AUnSYa?format=jpg&name=900x900"
+      "imageUrl": "https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg"
     },
     {
       "id": 3,
       "title": "You Don't Know JS Yet: Scope & Closures",
       "author": "Kyle Simpson",
-      "imageUrl": "https://pbs.twimg.com/media/GkFTt74X0AUnSYa?format=jpg&name=900x900"
+      "imageUrl": "https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg"
     },
     {
       "id": 4,
       "title": "JavaScript: The Good Parts",
       "author": "Douglas Crockford",
-      "imageUrl": "https://pbs.twimg.com/media/GkFTt74X0AUnSYa?format=jpg&name=900x900"
+      "imageUrl": "https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg"
     },
     {
       "id": 5,
       "title": "Eloquent JavaScript",
       "author": "Marijn Haverbeke",
-      "imageUrl": "https://pbs.twimg.com/media/GkFTt74X0AUnSYa?format=jpg&name=900x900"
+      "imageUrl": "https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg"
     },
     {
       "id": 6,
       "title": "Introduction to Algorithms",
       "author": "Thomas H. Cormen",
-      "imageUrl": "https://pbs.twimg.com/media/GkFTt74X0AUnSYa?format=jpg&name=900x900"
+      "imageUrl": "https://www.publishcentral.com.au/wp-content/uploads/2023/05/book-pile-of-must-read-books-scaled1.jpeg"
     }
   ]);
 
